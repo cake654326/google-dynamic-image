@@ -1,0 +1,16 @@
+{
+    "name": "contentcrackers/google-dynamic-image",
+    "description": "Dynamically serve images from Google Cloud Storage",
+    "keywords": ["laravel", "google cloud storage", "google app engine", "dynamic image"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Goethuys",
+            "email": "tom@contentcrackers.be"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "google/apiclient": "1.*"
+    }
+}
