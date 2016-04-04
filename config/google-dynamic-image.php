@@ -66,6 +66,8 @@ return array(
     |
     | The bucket where you want to store your files
     |
+    | https://console.cloud.google.com/storage
+    |
     */
     'bucket_name' => '',
 
